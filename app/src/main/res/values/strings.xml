@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="Review">Review</string>
+    <string name="Favourite">Favourite</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="my_name">Hager Yehia</string>
+    <string name="Notification_clicked">Notification_clicked</string>
+    <string name="profile_clicked">Profile_clicked</string>
+    <string name="Review_clicked">Review_clicked</string>
+    <string name="Favourite_clicked">Favourite_clicked</string>
+    <string name="Search_clicked">Search_clicked</string>
+    <string name="settings_clicked">Settings_clicked</string>
+</resources>

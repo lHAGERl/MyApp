@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group >
+                <item android:id="@+id/Reviews"
+                    android:title="@string/Review"
+                    android:icon="@drawable/star"></item>
+
+                <item android:id="@+id/Favourite"
+                    android:title="@string/Favourite"
+                    android:icon="@drawable/bookmark"></item>
+
+                <item android:id="@+id/search"
+                    android:title="@string/search"
+                    android:icon="@drawable/search"></item>
+
+
+        </group>
+        <item android:title="">
+                <menu>
+                <item android:id="@+id/profile"
+            android:title="@string/profile"
+            android:icon="@drawable/profile"
+            android:iconTint="@color/white"></item>
+
+        <item android:id="@+id/settings"
+            android:title="@string/settings"
+            android:icon="@drawable/settings"></item>
+
+                </menu>
+        </item>
+
+
+
+
+    </menu>
